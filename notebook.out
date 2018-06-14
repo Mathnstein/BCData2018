@@ -1,0 +1,24 @@
+\BOOKMARK [2][-]{subsection.0.1}{Exploration of Best Truck \(Maybe!\)}{}% 1
+\BOOKMARK [2][-]{subsection.0.2}{The following shows the number of critical alarms received by each truck}{}% 2
+\BOOKMARK [2][-]{subsection.0.3}{It is obtained by looking at the level 1 entries in Notification Details Report}{}% 3
+\BOOKMARK [2][-]{subsection.0.4}{seems 478 does a great job}{}% 4
+\BOOKMARK [2][-]{subsection.0.5}{Truck Loads}{}% 5
+\BOOKMARK [2][-]{subsection.0.6}{Seems to be promising, let's look at some other data}{}% 6
+\BOOKMARK [2][-]{subsection.0.7}{Number of breakdowns}{}% 7
+\BOOKMARK [2][-]{subsection.0.8}{Not good! Let's look at number of accidents}{}% 8
+\BOOKMARK [2][-]{subsection.0.9}{Number of Accidents}{}% 9
+\BOOKMARK [2][-]{subsection.0.10}{Not good either!}{}% 10
+\BOOKMARK [2][-]{subsection.0.11}{Possible reasons:}{}% 11
+\BOOKMARK [2][-]{subsection.0.12}{1. Error in data}{}% 12
+\BOOKMARK [2][-]{subsection.0.13}{2. Some components provide multiple alarms in other trucks,}{}% 13
+\BOOKMARK [2][-]{subsection.0.14}{hence more alarms in other trucks}{}% 14
+\BOOKMARK [2][-]{subsection.0.15}{3. Sometimes, truck drivers do not notice the alarms, which partly explains}{}% 15
+\BOOKMARK [2][-]{subsection.0.16}{the reason behind huge numer of accidents and breakdowns}{}% 16
+\BOOKMARK [2][-]{subsection.0.17}{Also:}{}% 17
+\BOOKMARK [2][-]{subsection.0.18}{To Recap}{}% 18
+\BOOKMARK [2][-]{subsection.0.19}{Conclusion:}{}% 19
+\BOOKMARK [2][-]{subsection.0.20}{Truck 478 gives us something to think about. It is either the best truck or}{}% 20
+\BOOKMARK [2][-]{subsection.0.21}{the worst truck depending on how we look at the data. It may also indicate}{}% 21
+\BOOKMARK [2][-]{subsection.0.22}{that data might not reliable and we need more accurate data to make a}{}% 22
+\BOOKMARK [2][-]{subsection.0.23}{conclusive observation.}{}% 23
+\BOOKMARK [1][-]{section.1}{Pressure and Temperature time series}{}% 24
